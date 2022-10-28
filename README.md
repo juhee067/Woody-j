@@ -1,7 +1,4 @@
-
-
-<h2>Intro</h2>
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1287B1&height=300&section=header&text=WELCOME%20&fontSize=90)
 
 <h3>My Skills</h3>
 <div class="icon">
@@ -14,5 +11,5 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee067&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee067&show_icons=true&theme=algolia)
 
