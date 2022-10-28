@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-
-
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngmlchoi&show_icons=true&theme=radical)
 
