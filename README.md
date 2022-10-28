@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1287B1&height=300&section=header&text=WELCOME%20&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=MY%20introduce%20My%20self&descAlignY=60&)
 
-<h3>My Skills</h3>
+<h3>Tech Stack</h3>
 <div class="icon">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
