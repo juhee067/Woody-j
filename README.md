@@ -1,2 +1,3 @@
 # Woody-j[
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/style=4chan&logoColor=512BD4"/></a>
