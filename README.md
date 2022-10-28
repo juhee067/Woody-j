@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1287B1&height=300&section=header&text=WELCOME%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1287B1&height=300&section=header&text=WELCOME%20&fontSize=90&fontColor=ffffff&desc=MY%20introduce%20My%20self&descAlignY=70&descAlignX=200)
 
 <h3>My Skills</h3>
 <div class="icon">
