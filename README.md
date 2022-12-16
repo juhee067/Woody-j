@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1287B1&height=300&section=header&text=WELCOME%20&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=MY%20introduce%20My%20self&descAlignY=60&)
 
-<h4>제일 Front에서 끊임없이 나아가는 FrontEnd 개발자가 되겠습니다! </h4> 
+<h4>제일 Front에서 끊임없이 나아가는 FrontEnd 개발자가 되겠습니다!! </h4> 
 
 <h3>Tech Stack</h3>
 <div class="icon">
